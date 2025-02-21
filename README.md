@@ -1,7 +1,7 @@
 # FrameShift
 
 ## Mission
-Learning Prompt AI is a non-profit initiative aimed at assisting kids in discovering new subjects and areas of interest. Our goal is to spark curiosity and creativity, empowering the next generation to explore various fields and potential career paths.
+Learning Prompt AI is a non-profit initiative aimed at assisting kids in discovering new subjects and areas of interest. Our goal is to spark curiosity and creativity, empowering the next generation to explore various fields and potential career paths. The idea behind this project is to provide quality content without overwhelming students. It should eventually be set for age groups or grade difficulty. The app/software will offer prompts that inspire students and keep them informed about emerging disruptive innovations, such as AI, alternative magnetism, hydrogen engines, and more. It aims to provide concise answers to questions, accompanied by images and illustrations for enhanced understanding. In the future, the app will also include user-uploaded videos and educational content to further enrich the learning experience. By consistently updating with the latest technological advancements, the app will ensure that the education system remains relevant and proficient without the need for frequent revisions to the curriculum.
 
 # Learning Prompt AI
 
