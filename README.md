@@ -9,3 +9,9 @@ Learning Prompt AI is a non-profit initiative aimed at assisting kids in discove
 - Generate educational prompts across diverse categories (e.g., science, technology, arts).
 - Simple and intuitive interface for users of all ages.
 - Plans for future enhancements, including machine learning models to create personalized learning experiences.
+
+## Getting Started
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/FrameShifting/FrameShift.git
+   cd FrameShift
